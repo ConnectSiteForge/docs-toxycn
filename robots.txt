@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ys60vq.cblox.com.br/sitemap.xml
